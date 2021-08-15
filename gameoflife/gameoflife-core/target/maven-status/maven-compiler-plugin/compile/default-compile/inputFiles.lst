@@ -1,0 +1,5 @@
+/gameoflife/PractiseRepo/gameoflife/gameoflife-core/src/main/java/com/wakaleo/gameoflife/domain/Cell.java
+/gameoflife/PractiseRepo/gameoflife/gameoflife-core/src/main/java/com/wakaleo/gameoflife/domain/GridReader.java
+/gameoflife/PractiseRepo/gameoflife/gameoflife-core/src/main/java/com/wakaleo/gameoflife/domain/Grid.java
+/gameoflife/PractiseRepo/gameoflife/gameoflife-core/src/main/java/com/wakaleo/gameoflife/domain/GridWriter.java
+/gameoflife/PractiseRepo/gameoflife/gameoflife-core/src/main/java/com/wakaleo/gameoflife/domain/Universe.java

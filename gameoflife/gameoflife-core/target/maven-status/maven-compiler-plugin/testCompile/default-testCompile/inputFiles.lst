@@ -1,0 +1,10 @@
+/gameoflife/PractiseRepo/gameoflife/gameoflife-core/src/test/java/com/wakaleo/gameoflife/domain/WhenYouPrintAGrid.java
+/gameoflife/PractiseRepo/gameoflife/gameoflife-core/src/test/java/com/wakaleo/gameoflife/domain/WhenYouCreateANewUniverse.java
+/gameoflife/PractiseRepo/gameoflife/gameoflife-core/src/test/java/com/wakaleo/gameoflife/domain/WhenYouCreateAGrid.java
+/gameoflife/PractiseRepo/gameoflife/gameoflife-core/src/test/java/com/wakaleo/gameoflife/domain/WhenYouPlayTheGameOfLife.java
+/gameoflife/PractiseRepo/gameoflife/gameoflife-core/src/test/java/com/wakaleo/gameoflife/domain/WhenYouReadAGridFromAString.java
+/gameoflife/PractiseRepo/gameoflife/gameoflife-core/src/test/java/com/wakaleo/gameoflife/domain/WhenYouCreateACell.java
+/gameoflife/PractiseRepo/gameoflife/gameoflife-core/src/test/java/com/wakaleo/gameoflife/test/categories/RegressionTests.java
+/gameoflife/PractiseRepo/gameoflife/gameoflife-core/src/test/java/com/wakaleo/gameoflife/test/categories/SlowTests.java
+/gameoflife/PractiseRepo/gameoflife/gameoflife-core/src/test/java/com/wakaleo/gameoflife/integration/WhenYouStoreGamesInADatabase.java
+/gameoflife/PractiseRepo/gameoflife/gameoflife-core/src/test/java/com/wakaleo/gameoflife/test/categories/IntegrationTests.java
